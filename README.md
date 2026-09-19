@@ -1,6 +1,6 @@
 ## Hi, I'm Norlando Junior 👋
 
-UX/UI Designer in training and Software Development student at BYU-Idaho.
+UX/UI Designer and Software Development student at BYU-Idaho.
 
 I enjoy combining UX/UI Design and software development to create
 user-centered digital experiences and practical web solutions.
