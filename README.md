@@ -45,5 +45,5 @@ development practices.
 
 ## 📫 Connect with me
 
-- LinkedIn [svg](https://www.linkedin.com/in/norlando-junior/edit/forms/summary/new/?language=en&country=US&locale=en-US)
-- Portfolio [svg](https://medium.com/@norlandojr/meu-primeiro-projeto-de-ux-ui-design-cafda45a4afd)
+- [LinkedIn](https://www.linkedin.com/in/norlando-junior/edit/forms/summary/new/?language=en&country=US&locale=en-US)
+- [Portfolio](https://medium.com/@norlandojr/meu-primeiro-projeto-de-ux-ui-design-cafda45a4afd)
